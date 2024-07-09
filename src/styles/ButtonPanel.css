@@ -1,0 +1,39 @@
+.button-panel {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 1.5px;
+    border: 2px solid #999;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .button-row {
+    display: contents;
+  }
+  
+  /* Add this if you want inner borders between rows */
+  .button-row:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Add this if you want inner borders between columns */
+  .button-row > *:not(:last-child) {
+    border-right: 1px solid #ddd;
+  }
+  
+  /* Styles for dark mode */
+  .dark-mode .button-panel {
+    border-color: #555;
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  }
+  
+  .dark-mode .button-row:not(:last-child) {
+    border-bottom-color: #444;
+  }
+  
+  .dark-mode .button-row > *:not(:last-child) {
+    border-right-color: #444;
+  }

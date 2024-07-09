@@ -1,0 +1,15 @@
+.display {
+    background-color: grey;
+    color: #333;
+    font-size: 2em;
+    padding: 10px;
+    text-align: right;
+    border-radius: 10px;
+    /* margin-bottom: 10px; */
+    min-height: 50px;
+  }
+  
+  .dark-mode .display {
+    background-color: #222;
+    color: grey;
+  }

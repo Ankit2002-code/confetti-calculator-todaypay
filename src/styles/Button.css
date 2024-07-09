@@ -1,0 +1,49 @@
+.button {
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+    font-size: 1em;
+    padding: 10px 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #d0d0d0;
+  }
+  
+  .button.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button.last-column {
+    background-color: #DAA520; /* Dark yellow (goldenrod) */
+    color: white;
+  }
+  
+  .button.last-column:hover {
+    background-color: #B8860B; /* Darker yellow on hover */
+  }
+  
+  .dark-mode .button {
+    background-color: #555;
+    color: #fff;
+  }
+  
+  .dark-mode .button:hover {
+    background-color: #666;
+  }
+  
+  .dark-mode .button.active {
+    background-color: #4CAF50;
+  }
+  
+  .dark-mode .button.last-column {
+    background-color: #B8860B; /* Darker yellow for dark mode */
+  }
+  
+  .dark-mode .button.last-column:hover {
+    background-color: #8B6914; /* Even darker yellow on hover for dark mode */
+  }
