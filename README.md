@@ -7,7 +7,7 @@ This is a mac-os calculator clone built using react with various functionalties 
  ## THEME CAN BE CHANGED FROM LIGHT MODE TO DARK MODE .
   ![Screenshot 2024-07-09 180528](https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/c3329ba9-edad-435b-8737-984dc23c86e8)   ![Screenshot 2024-07-09 180548](https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/a9875846-7752-42f5-9f47-69ae241feb06)
 
- ## TRIGGERS A CONFETTI EXPLOSION WHEN 2 or 6 ARE USED TOGETHER IN AN ADDITION OR MULTIPLICATION .
+ ## TRIGGERS A CONFETTI EXPLOSION WHEN 2 and 6 ARE USED TOGETHER IN AN ADDITION OR MULTIPLICATION .
    https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/ece1c9fc-fa4d-41c9-bd21-5caba0c10205
 
 ## SAVES THE HISTORY OF ALL PAST CALCULATIONS .
