@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+## CONFETTI-CALCULATOR
+# LIVE ON :- https://confetti-calculator-todaypay.vercel.app/
+This is a mac-os calculator clone built using react with various functionalties :-
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ # IT HAS ALL THE ADVANCE SCIENTIFIC CALCULATOR OPERATIONS IN IT .
+ ![Screenshot 2024-07-09 180139](https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/4cd23edd-7a95-497c-a699-6bac7b4b7d98)
+ # THEME CAN BE CHANGED FROM LIGHT MODE TO DARK MODE .
+  . LIGHT MODE
+  ![Screenshot 2024-07-09 180528](https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/c3329ba9-edad-435b-8737-984dc23c86e8)
+  . DARK MODE
+  ![Screenshot 2024-07-09 180548](https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/a9875846-7752-42f5-9f47-69ae241feb06)
 
-## Available Scripts
+ # TRIGGERS A CONFETTI EXPLOSION WHEN 2 or 6 ARE USED TOGETHER IN AN ADDITION OR MULTIPLICATION .
+   https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/ece1c9fc-fa4d-41c9-bd21-5caba0c10205
 
-In the project directory, you can run:
+# SAVES THE HISTORY OF ALL PAST CALCULATIONS .
+  ![Screenshot 2024-07-09 180456](https://github.com/Ankit2002-code/confetti-calculator-todaypay/assets/91961466/240ab0c7-f9af-4780-8cd4-b135faa4b3bf)
 
-### `npm start`
+# HOW TO RUN THIS PROJECT:-
+1. git clone https://github.com/Ankit2002-code/confetti-calculator-todaypay
+2. cd confetti-calculator-todaypay
+3. npm install react-confetti-explosion
+4. npm start.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
